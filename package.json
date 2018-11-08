@@ -1,0 +1,28 @@
+{
+  "name": "ae-ops-ui-prototype",
+  "version": "1.0.0",
+  "description": "package for ops ui panel first prototype",
+  "main": "index.js",
+  "scripts": {
+    "test": "ae-ops-tst"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snydermb/ae-ops-ui-prototype.git"
+  },
+  "keywords": [
+    "solutotest"
+  ],
+  "author": "malcolm snyder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snydermb/ae-ops-ui-prototype/issues"
+  },
+  "homepage": "https://github.com/snydermb/ae-ops-ui-prototype#readme",
+  "dependencies": {
+    "d3": "^5.7.0",
+    "mithril": "^1.1.6",
+    "mithril-stream": "^1.1.0",
+    "typescript": "^3.1.6"
+  }
+}
